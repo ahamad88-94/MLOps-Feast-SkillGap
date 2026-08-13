@@ -1,8 +1,8 @@
 # Curriculum-Industry Skill Feature Store Using Feast
 
 ## Student Details
-- **Name:** Abhiram Jonnadula
-- **Register Number:** 231FA04871
+- **Name:** Shaik Nissar Ahamad
+- **Register Number:** 231FA04D94
 - **Section:** 3
 
 ---
