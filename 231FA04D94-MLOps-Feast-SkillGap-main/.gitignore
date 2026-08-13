@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+venv/
+.env
+feature_repo/data/registry.db
+feature_repo/data/online_store.db

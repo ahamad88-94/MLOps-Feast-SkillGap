@@ -1,0 +1,18 @@
+{
+  "skill_id": 29,
+  "input_features": {
+    "skill_id": 29,
+    "num_job_postings": 962,
+    "industry_demand_norm": 0.7985000014305115,
+    "category": "Cloud & DevOps",
+    "industry_demand_score": 79.8499984741211,
+    "curriculum_hours": 17,
+    "avg_salary_premium_pct": 17.239999771118164,
+    "curriculum_coverage_norm": 0.34450000524520874,
+    "job_postings_log": 6.870100021362305,
+    "curriculum_coverage_score": 34.45000076293945,
+    "category_encoded": "0"
+  },
+  "predicted_high_priority_gap": 1,
+  "probability_high_priority_gap": 0.77
+}
